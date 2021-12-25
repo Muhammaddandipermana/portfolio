@@ -1,0 +1,17 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #a3b8da;
+}
+.jumbotron .des{
+    font-size: 0.8rem;
+}
+.jumbotron .btn{
+    font-size: 1rem;
+}
+#project{
+    background-color: #a3b8da;
+}
+section {
+    padding-top: 4.5rem;
+}
